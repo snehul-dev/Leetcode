@@ -24,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3028-ant-on-the-boundary](https://github.com/snehul-dev/Leetcode/tree/master/3028-ant-on-the-boundary) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/snehul-dev/Leetcode/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
