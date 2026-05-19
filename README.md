@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/snehul-dev/Leetcode/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/snehul-dev/Leetcode/tree/master/0258-add-digits) |
 | [2769-find-the-maximum-achievable-number](https://github.com/snehul-dev/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 ## Array
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/snehul-dev/Leetcode/tree/master/0258-add-digits) |
 | [3028-ant-on-the-boundary](https://github.com/snehul-dev/Leetcode/tree/master/3028-ant-on-the-boundary) |
 ## Prefix Sum
 |  |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/snehul-dev/Leetcode/tree/master/0520-detect-capital) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/snehul-dev/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
