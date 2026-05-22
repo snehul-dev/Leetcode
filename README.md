@@ -31,9 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/snehul-dev/Leetcode/tree/master/0125-valid-palindrome) |
 | [0520-detect-capital](https://github.com/snehul-dev/Leetcode/tree/master/0520-detect-capital) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/snehul-dev/Leetcode/tree/master/0258-add-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/snehul-dev/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
