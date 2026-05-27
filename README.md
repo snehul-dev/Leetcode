@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/snehul-dev/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/snehul-dev/Leetcode/tree/master/0066-plus-one) |
 | [0704-binary-search](https://github.com/snehul-dev/Leetcode/tree/master/0704-binary-search) |
 | [3028-ant-on-the-boundary](https://github.com/snehul-dev/Leetcode/tree/master/3028-ant-on-the-boundary) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/snehul-dev/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/snehul-dev/Leetcode/tree/master/0125-valid-palindrome) |
 | [0520-detect-capital](https://github.com/snehul-dev/Leetcode/tree/master/0520-detect-capital) |
 ## Number Theory
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/snehul-dev/Leetcode/tree/master/0125-valid-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/snehul-dev/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
