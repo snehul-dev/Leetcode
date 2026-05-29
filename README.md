@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/snehul-dev/Leetcode/tree/master/0066-plus-one) |
 | [0704-binary-search](https://github.com/snehul-dev/Leetcode/tree/master/0704-binary-search) |
 | [3028-ant-on-the-boundary](https://github.com/snehul-dev/Leetcode/tree/master/3028-ant-on-the-boundary) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/snehul-dev/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/snehul-dev/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sorting
+|  |
+| ------- |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/snehul-dev/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 <!---LeetCode Topics End-->
