@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/snehul-dev/Leetcode/tree/master/0066-plus-one) |
 | [0704-binary-search](https://github.com/snehul-dev/Leetcode/tree/master/0704-binary-search) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/snehul-dev/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2126-destroying-asteroids](https://github.com/snehul-dev/Leetcode/tree/master/2126-destroying-asteroids) |
 | [3028-ant-on-the-boundary](https://github.com/snehul-dev/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/snehul-dev/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Binary Search
@@ -62,9 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2126-destroying-asteroids](https://github.com/snehul-dev/Leetcode/tree/master/2126-destroying-asteroids) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/snehul-dev/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Counting
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/snehul-dev/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [2126-destroying-asteroids](https://github.com/snehul-dev/Leetcode/tree/master/2126-destroying-asteroids) |
 <!---LeetCode Topics End-->
