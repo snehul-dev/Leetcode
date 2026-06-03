@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/snehul-dev/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/snehul-dev/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/snehul-dev/Leetcode/tree/master/0258-add-digits) |
 | [2769-find-the-maximum-achievable-number](https://github.com/snehul-dev/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 ## Array
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/snehul-dev/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/snehul-dev/Leetcode/tree/master/0258-add-digits) |
 | [3028-ant-on-the-boundary](https://github.com/snehul-dev/Leetcode/tree/master/3028-ant-on-the-boundary) |
 ## Prefix Sum
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/snehul-dev/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/snehul-dev/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/snehul-dev/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/snehul-dev/Leetcode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/snehul-dev/Leetcode/tree/master/0383-ransom-note) |
 | [0520-detect-capital](https://github.com/snehul-dev/Leetcode/tree/master/0520-detect-capital) |
@@ -76,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2126-destroying-asteroids](https://github.com/snehul-dev/Leetcode/tree/master/2126-destroying-asteroids) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/snehul-dev/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
