@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/snehul-dev/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/snehul-dev/Leetcode/tree/master/0258-add-digits) |
 | [2769-find-the-maximum-achievable-number](https://github.com/snehul-dev/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/snehul-dev/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Array
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1629-slowest-key](https://github.com/snehul-dev/Leetcode/tree/master/1629-slowest-key) |
 | [2126-destroying-asteroids](https://github.com/snehul-dev/Leetcode/tree/master/2126-destroying-asteroids) |
 | [3028-ant-on-the-boundary](https://github.com/snehul-dev/Leetcode/tree/master/3028-ant-on-the-boundary) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/snehul-dev/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/snehul-dev/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Binary Search
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3028-ant-on-the-boundary](https://github.com/snehul-dev/Leetcode/tree/master/3028-ant-on-the-boundary) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/snehul-dev/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## String
 |  |
 | ------- |
