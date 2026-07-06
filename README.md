@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/snehul-dev/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1629-slowest-key](https://github.com/snehul-dev/Leetcode/tree/master/1629-slowest-key) |
 | [2126-destroying-asteroids](https://github.com/snehul-dev/Leetcode/tree/master/2126-destroying-asteroids) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/snehul-dev/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3028-ant-on-the-boundary](https://github.com/snehul-dev/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/snehul-dev/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/snehul-dev/Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/snehul-dev/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/snehul-dev/Leetcode/tree/master/0383-ransom-note) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/snehul-dev/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/snehul-dev/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
