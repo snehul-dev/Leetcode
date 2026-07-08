@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/snehul-dev/Leetcode/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/snehul-dev/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/snehul-dev/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/snehul-dev/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/snehul-dev/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1629-slowest-key](https://github.com/snehul-dev/Leetcode/tree/master/1629-slowest-key) |
 | [2126-destroying-asteroids](https://github.com/snehul-dev/Leetcode/tree/master/2126-destroying-asteroids) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/snehul-dev/Leetcode/tree/master/0242-valid-anagram) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/snehul-dev/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2126-destroying-asteroids](https://github.com/snehul-dev/Leetcode/tree/master/2126-destroying-asteroids) |
 | [3467-transform-array-by-parity](https://github.com/snehul-dev/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/snehul-dev/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/snehul-dev/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/snehul-dev/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
