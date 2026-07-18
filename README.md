@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/snehul-dev/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/snehul-dev/Leetcode/tree/master/0383-ransom-note) |
 | [0520-detect-capital](https://github.com/snehul-dev/Leetcode/tree/master/0520-detect-capital) |
+| [0709-to-lower-case](https://github.com/snehul-dev/Leetcode/tree/master/0709-to-lower-case) |
 | [1629-slowest-key](https://github.com/snehul-dev/Leetcode/tree/master/1629-slowest-key) |
 ## Number Theory
 |  |
