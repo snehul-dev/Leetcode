@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/snehul-dev/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/snehul-dev/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1629-slowest-key](https://github.com/snehul-dev/Leetcode/tree/master/1629-slowest-key) |
+| [1652-defuse-the-bomb](https://github.com/snehul-dev/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [2126-destroying-asteroids](https://github.com/snehul-dev/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/snehul-dev/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/snehul-dev/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/snehul-dev/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1652-defuse-the-bomb](https://github.com/snehul-dev/Leetcode/tree/master/1652-defuse-the-bomb) |
 ## Sorting
 |  |
 | ------- |
