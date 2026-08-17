@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/snehul-dev/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3028-ant-on-the-boundary](https://github.com/snehul-dev/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3151-special-array-i](https://github.com/snehul-dev/Leetcode/tree/master/3151-special-array-i) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/snehul-dev/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/snehul-dev/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/snehul-dev/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/snehul-dev/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/snehul-dev/Leetcode/tree/master/0383-ransom-note) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/snehul-dev/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/snehul-dev/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/snehul-dev/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/snehul-dev/Leetcode/tree/master/0383-ransom-note) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/snehul-dev/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/snehul-dev/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/snehul-dev/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3467-transform-array-by-parity](https://github.com/snehul-dev/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Greedy
 |  |
