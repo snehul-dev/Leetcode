@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/snehul-dev/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/snehul-dev/Leetcode/tree/master/0066-plus-one) |
 | [0704-binary-search](https://github.com/snehul-dev/Leetcode/tree/master/0704-binary-search) |
+| [1089-duplicate-zeros](https://github.com/snehul-dev/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/snehul-dev/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/snehul-dev/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/snehul-dev/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/snehul-dev/Leetcode/tree/master/0125-valid-palindrome) |
+| [1089-duplicate-zeros](https://github.com/snehul-dev/Leetcode/tree/master/1089-duplicate-zeros) |
 ## Trie
 |  |
 | ------- |
