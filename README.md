@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/snehul-dev/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/snehul-dev/Leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/snehul-dev/Leetcode/tree/master/0066-plus-one) |
 | [0704-binary-search](https://github.com/snehul-dev/Leetcode/tree/master/0704-binary-search) |
 | [1089-duplicate-zeros](https://github.com/snehul-dev/Leetcode/tree/master/1089-duplicate-zeros) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/snehul-dev/Leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/snehul-dev/Leetcode/tree/master/0125-valid-palindrome) |
 | [1089-duplicate-zeros](https://github.com/snehul-dev/Leetcode/tree/master/1089-duplicate-zeros) |
 ## Trie
