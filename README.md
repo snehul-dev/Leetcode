@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/snehul-dev/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/snehul-dev/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/snehul-dev/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/snehul-dev/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/snehul-dev/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/snehul-dev/Leetcode/tree/master/0125-valid-palindrome) |
@@ -179,4 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1789-primary-department-for-each-employee](https://github.com/snehul-dev/Leetcode/tree/master/1789-primary-department-for-each-employee) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/snehul-dev/Leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/snehul-dev/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/snehul-dev/Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/snehul-dev/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
