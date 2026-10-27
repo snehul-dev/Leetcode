@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/snehul-dev/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/snehul-dev/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/snehul-dev/Leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/snehul-dev/Leetcode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/snehul-dev/Leetcode/tree/master/0258-add-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/snehul-dev/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2413-smallest-even-multiple](https://github.com/snehul-dev/Leetcode/tree/master/2413-smallest-even-multiple) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/snehul-dev/Leetcode/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/snehul-dev/Leetcode/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/snehul-dev/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/snehul-dev/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/snehul-dev/Leetcode/tree/master/0020-valid-parentheses) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/snehul-dev/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
