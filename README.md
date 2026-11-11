@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/snehul-dev/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/snehul-dev/Leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/snehul-dev/Leetcode/tree/master/0066-plus-one) |
+| [0303-range-sum-query-immutable](https://github.com/snehul-dev/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0704-binary-search](https://github.com/snehul-dev/Leetcode/tree/master/0704-binary-search) |
 | [1089-duplicate-zeros](https://github.com/snehul-dev/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/snehul-dev/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/snehul-dev/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [3028-ant-on-the-boundary](https://github.com/snehul-dev/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/snehul-dev/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## String
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/snehul-dev/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/snehul-dev/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
