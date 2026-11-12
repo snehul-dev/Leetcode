@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/snehul-dev/Leetcode/tree/master/0066-plus-one) |
 | [0303-range-sum-query-immutable](https://github.com/snehul-dev/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0704-binary-search](https://github.com/snehul-dev/Leetcode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/snehul-dev/Leetcode/tree/master/0724-find-pivot-index) |
 | [1089-duplicate-zeros](https://github.com/snehul-dev/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/snehul-dev/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/snehul-dev/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/snehul-dev/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/snehul-dev/Leetcode/tree/master/0724-find-pivot-index) |
 | [3028-ant-on-the-boundary](https://github.com/snehul-dev/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/snehul-dev/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## String
