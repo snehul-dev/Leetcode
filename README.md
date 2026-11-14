@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/snehul-dev/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/snehul-dev/Leetcode/tree/master/0724-find-pivot-index) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/snehul-dev/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [3028-ant-on-the-boundary](https://github.com/snehul-dev/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/snehul-dev/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## String
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/snehul-dev/Leetcode/tree/master/0383-ransom-note) |
 | [0520-detect-capital](https://github.com/snehul-dev/Leetcode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/snehul-dev/Leetcode/tree/master/0709-to-lower-case) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/snehul-dev/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1629-slowest-key](https://github.com/snehul-dev/Leetcode/tree/master/1629-slowest-key) |
 ## Number Theory
 |  |
