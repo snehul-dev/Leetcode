@@ -1,0 +1,19 @@
+public class Solution {
+    public int MajorityElement(int[] nums) {
+        int element = 0;
+        int count = 0;
+
+        foreach(int num in nums){
+            if(count == 0){
+                element = num;
+            }
+            if(element == num){
+                count++;
+            }else{
+                count--;
+            }
+        }
+        return element;
+   
+        }
+    }
